@@ -1,0 +1,25 @@
+{
+    "name": "rabbitcms/activities",
+    "description": "",
+    "type": "october-module",
+    "require": {
+        "rabbitcms/carrot": "0.1.8.*",
+        "rabbitcms/backend": "0.4.0.*",
+        "doctrine/annotations": "1.*"
+    },
+    "authors": [
+        {
+            "name": "Kulyk Dmytro",
+            "email": "lnkvisitor.ts@gmail.com"
+        },
+        {
+            "name": "Dmytro Zhurakovskyi",
+            "email": "dmytro.zhurakovsky@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "RabbitCMS\\Activities\\": ""
+        }
+    }
+}
