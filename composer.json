@@ -4,7 +4,7 @@
     "type": "october-module",
     "require": {
         "rabbitcms/carrot": "0.1.8.*",
-        "rabbitcms/backend": "*@dev",
+        "rabbitcms/backend": "0.4.*",
         "doctrine/annotations": "1.*"
     },
     "authors": [
